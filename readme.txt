@@ -1,3 +1,5 @@
+** Pass giải nén (nếu có): tofuchilling
+
 ĐỐI VỚI BẢN CLIENT:
 - Vào thư mục cài game, ví dụ D:\wwm\wwm_standard\ (bản standard) hoặc wwm_lite\ (bản lite)
 - Copy thư mục LocalData và chép đè vào
