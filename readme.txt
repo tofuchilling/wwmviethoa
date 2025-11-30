@@ -15,4 +15,4 @@ Version 1.0:
 - Tối ưu dịch thông số, chỉ số, giao diện, ...
 - Còn lại cốt truyện các kiểu tạm thời để AI, sẽ trau chuốt trong tương lai
 
-** Lưu ý lần 2: Làm vì sở thích, làm một mình, share lên ai thích thì xài không thích thì mua của mấy đội dịch thuật ok!
+** Lưu ý lần 2: Làm vì sở thích, làm một mình, share lên ai thích thì xài không thích đừng lói lời cay đắng <3
