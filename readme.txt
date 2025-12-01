@@ -1,12 +1,12 @@
 Cập nhật bản dịch và nhận góp ý tại: https://www.youtube.com/@TofuChilling
 
 ĐỐI VỚI BẢN CLIENT:
-- Vào thư mục cài game, ví dụ D:\wwm\wwm_standard\ (bản standard) hoặc wwm_lite\ (bản lite)
-- Copy cả thư mục LocalData đã giải nén và chép đè vào
+- Vào thư mục cài game, ví dụ D:\wwm\wwm_standard(bản standard) hoặc wwm_lite(bản lite)\LocalData\
+- Copy thư mục Package và chép đè vào
 
 ĐỐI VỚI BẢN STEAM:
 - Vào thư mục steamapps\common\Where Winds Meet\
-- Vào thư mục LocalData đã giải nén, copy thư mục Package và chép đè vào
+- Copy thư mục Package và chép đè vào
 
 ** Vào game chọn ngôn ngữ đầu tiên (gốc là tiếng Anh) 
 ** Lưu ý: một số đoạn text sẽ không dịch được tiếng Việt (mô tả tâm pháp, bát úp, ...) do text tải từ server của NetEase
