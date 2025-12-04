@@ -2,10 +2,10 @@ Cập nhật bản dịch và nhận góp ý tại: https://www.youtube.com/@Tof
 
 ĐỐI VỚI BẢN CLIENT:
 - Vào thư mục cài game, ví dụ D:\wwm\wwm_standard(bản standard) hoặc wwm_lite(bản lite)\LocalData\
-- Copy thư mục Package và chép đè vào
+- Copy thư mục Patch và chép đè vào
 
 ĐỐI VỚI BẢN STEAM:
-- Vào thư mục steamapps\common\Where Winds Meet\
+- Vào thư mục Steam\steamapps\common\Where Winds Meet\
 - Copy thư mục Package và chép đè vào
 
 ** Vào game chọn ngôn ngữ đầu tiên (gốc là tiếng Anh) 
@@ -18,8 +18,8 @@ Cập nhật bản dịch và nhận góp ý tại: https://www.youtube.com/@Tof
     3. Copy file translate_words_map_de đè vào thư mục Package\HD\oversea\locale
     4. Vào game đổi sang ngôn ngữ cuối cùng (gốc tiếng Đức)
 
-Version 1.2:
-- Tối ưu dịch thông số, chỉ số, giao diện, ...
-- Còn lại cốt truyện các kiểu tạm thời để AI, sẽ trau chuốt trong tương lai
+Version 1.3:
+- Tối ưu các thông tin chỉ số, kỳ thuật, tâm pháp dễ hiểu hơn
+- Cốt truyện vẫn chưa làm T.T
 
 ** Lưu ý lần 2: Làm vì sở thích, làm một mình, share lên ai thích thì xài không thích đừng lói lời cay đắng <3
